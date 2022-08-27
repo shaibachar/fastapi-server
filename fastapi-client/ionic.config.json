@@ -1,0 +1,7 @@
+{
+  "name": "fastapi-client",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
